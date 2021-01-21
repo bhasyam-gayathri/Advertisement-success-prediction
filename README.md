@@ -8,7 +8,7 @@ You have been hired by this advertising company to assess the revenue that can b
 
 This will help guide decision-making for the firm, as they will want to pursue ads that are likely to generate a net gain for their clients— thereby boosting the advertising firm’s reputation
 
-Overview
+# Overview
 This is a binary classification problem where you need to predict whether an ad buy will lead to a netgain.
 
 # Data Description
@@ -18,7 +18,7 @@ It contains the training data with advertisement details as described in the las
 # Data Dictionary
 Variable	Description
 UserID	Unique id for each row
-ratings	Metric out of 1 which represents how much of the targeted demographic watched the advertisement
+ratings	Metric out of 1 which represents how much of the targeted demographic watched the advertisement 
 airlocation	Country of origin
 airtime	Time when the advertisement was aired
 average_runtime(minutes_per_week)	Minutes per week the advertisement was aired
